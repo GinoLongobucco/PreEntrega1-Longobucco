@@ -1,0 +1,6 @@
+.navContainer {
+  background-color: rgb(69, 150, 255);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
